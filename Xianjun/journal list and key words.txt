@@ -1,0 +1,21 @@
+journal list:
+(1) Physical Review B
+(2) Physical Review Letters
+(3) Physical Review Materials
+(4) PRX
+(5) Nature
+(6) Nature Communications
+(7) Nature Physics
+(8) Nature Materials
+(9) npj Quantum Materials (Nature family)
+(10) npj Scientific Reports (Nature family)
+(11) Science
+(12) Science Advances
+(13) Inorganic Chemistry
+(14) Journal of American Chemical Society
+(15) Advanced Materials
+(16) Journal of Physics Condensed Matter
+(17) Chemistry of Materials
+
+Key words:
+Topological+ materials, correlated electron, strongly correlated, Dirac + materials
