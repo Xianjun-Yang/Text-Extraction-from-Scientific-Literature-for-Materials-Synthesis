@@ -1,0 +1,59 @@
+Action words typically used in synthesis:
+Sinter
+Fired
+Quench
+Quenched
+React
+Reacted
+Reaction
+Ground
+Reground
+Grind
+Regrinding
+Synthesize
+synthesized
+Solid-state
+Heating rate
+Cooling rate
+Soak
+Soaked
+Homogenize
+Anneal
+Annealed
+Heated
+Cooled
+Dwell
+
+Equipment typically used:
+Furnace
+Ball mill
+Isostatic press
+Pellet press
+Hydraulic press
+Mortar
+Pestle
+Ampoule
+Ampule
+Crucible
+Quartz tube
+Tantalum tube
+Niobium tube
+Gold tube
+Boat
+
+Description of powder samples:
+Reagents
+Powder
+Pellet
+Phase pure
+Polycrystalline
+Crystalline
+Molar ratio
+Stoichiometric
+off-stoichiometric
+
+Characterization report on powders:
+Rietveld
+XRD
+X-ray diffraction
+powder diffraction
