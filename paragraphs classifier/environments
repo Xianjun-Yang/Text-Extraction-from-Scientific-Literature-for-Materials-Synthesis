@@ -1,4 +1,9 @@
 Install environments: 
+first:
+conda create -n python36 python=3.6
+then:
+conda activate python36
+install the following:
 conda install -c conda-forge spacy==2.2.0
 conda install tensorflow
 conda install gensim
