@@ -1,4 +1,12 @@
 Install environments: 
-conda create -n python36 python=3.6
-pip install -r requirements.txt
-Additional library for mac: conda install nomkl
+conda install -c conda-forge spacy==2.2.0
+conda install tensorflow
+conda install gensim
+conda install Keras
+conda install nomkl
+conda install unidecode
+pip3 install https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.2.0/en_core_web_sm-2.2.0.tar.gz
+pip install pdfminer.six
+conda install smart_open==2.0.0
+
+
